@@ -1,6 +1,6 @@
 Name:		plasma-applet-tiledmenu
 Summary:	Tiled application launcher menu, resembling Windows 10
-Version:	31.2020.01.14
+Version:	45
 Release:	1
 Group:		Graphical desktop/KDE
 Source0:	https://github.com/Zren/plasma-applet-tiledmenu/archive/master/%{name}-%{version}.tar.gz
